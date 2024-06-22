@@ -1,0 +1,1 @@
+/* Empty JavaScript file is the shortest JavaScript Program */
